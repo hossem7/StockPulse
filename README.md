@@ -61,7 +61,6 @@ Once everything is running, you can:
 1. Click **"Create Flow"** to make your first workflow.
 2. Explore the interface.
 3. Try creating some basic automations.
-4. Watch the full YouTube Tutorial here: https://youtu.be/3q8FbiR-t8g
 
 ### To stop Kestra when you're done:
 

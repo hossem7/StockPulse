@@ -1,7 +1,7 @@
-
+# An event-driven stock market analysis pipeline using Python, Docker, and AWS, integrating real-time data processing, observability, and infrastructure as code. 
 <br/>
 
-# Setting Up Kestra: A Step-by-Step Guide
+## A Step-by-Step Guide to run the application
 
 
 Kestra is a workflow orchestration tool. Think of it like a control center for automating tasks and processes. Here's what to do step by step:
